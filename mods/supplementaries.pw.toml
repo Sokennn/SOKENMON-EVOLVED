@@ -1,0 +1,13 @@
+name = "Supplementaries"
+filename = "supplementaries-1.21-3.0.30-beta-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/RihagfdB/supplementaries-1.21-3.0.30-beta-fabric.jar"
+hash-format = "sha512"
+hash = "323c06408e59cf37ccf4cd865357044efba9225e157ba1a0107cdbb775f8d3c9516b593fdf0ceff343dda8b97899108dd35ca19545c19f2994fcef8e03245acf"
+
+[update]
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "RihagfdB"

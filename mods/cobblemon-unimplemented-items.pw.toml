@@ -1,0 +1,13 @@
+name = "Cobblemon Unimplemented Items"
+filename = "cobblemon-unimplementeditems-1.6-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pSd78c83/versions/vo0ct3Hq/cobblemon-unimplementeditems-1.6-fabric-1.0.1.jar"
+hash-format = "sha512"
+hash = "c9ffce0d7ca6ae08fa8dc4e2be99e0bd734403040d2cfc33e2531a549b7d8433b179e1d7d368f3b3fd5624dd3f2ad2fbafe58ca158fbc3f648a0e55921145341"
+
+[update]
+[update.modrinth]
+mod-id = "pSd78c83"
+version = "vo0ct3Hq"

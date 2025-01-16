@@ -1,0 +1,13 @@
+name = "Terrastorage"
+filename = "Terrastorage-1.2.2+1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QKXofFZC/versions/mucH22QQ/Terrastorage-1.2.2%2B1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "a804f0b65b901e418ab06fb967317c635d1cb2b1b8c9bcb856609558fc6cb0b5d5555d93fbdbf963efb8557106561c24d3c2654725ebc420f64a95d64e028f7f"
+
+[update]
+[update.modrinth]
+mod-id = "QKXofFZC"
+version = "mucH22QQ"

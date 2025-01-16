@@ -1,0 +1,13 @@
+name = "Stackable"
+filename = "fabric-stackable-1.21.1-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bc74RbD1/versions/k5bUuZft/fabric-stackable-1.21.1-1.3.1.jar"
+hash-format = "sha512"
+hash = "6e63add0d46ec3741cc290a1b35685f465b4c2c2bb118f694cee4a7eb6ea9e953adc202c1d03f9f1a0df507c5bb887cb0bd210ff66eb0def19ef8987ce4dec76"
+
+[update]
+[update.modrinth]
+mod-id = "Bc74RbD1"
+version = "k5bUuZft"

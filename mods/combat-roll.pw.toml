@@ -1,0 +1,13 @@
+name = "Combat Roll"
+filename = "combat_roll-fabric-2.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wGKYL7st/versions/NNRViwFU/combat_roll-fabric-2.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "4389ea4cbad6a2886b3b18d25e206560782926c99ab1c695f270f79353bc653ace01f1b9eaa3de7bf98271c3b2d31561dbb3288e455db8bb44e8557e458990cd"
+
+[update]
+[update.modrinth]
+mod-id = "wGKYL7st"
+version = "NNRViwFU"
