@@ -1,38 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Stackable.json"
-hash = "91292027f70f763ec1510714859f8f976e8598bf43811b43ad09151a9acf7794"
-
-[[files]]
-file = "config/accessories.json5"
-hash = "01b3ef151a1538f9a16cfdfddf9299622ecc6c75b61f30b5222a90d560789f6e"
-
-[[files]]
-file = "config/ping-wheel.json"
-hash = "17e223763314ffc89a1be5ac1059f41f2a4df149c334ef8ca53412b12c9f3a28"
-
-[[files]]
-file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "95accadd3f910560d479ad942307770d6c5681ff52b319aaf32495203feeef41"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "be9f3d37987bd035e7aeade9c3fd5ca8ec2d2d46f86a02ee6d7e7d35855f0f38"
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
 metafile = true
@@ -441,10 +409,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "3fee91e3b51aec91202ec2935dab7f930a3499ca778b8621808eeaa26b73405b"
 
 [[files]]
 file = "servers.dat"
