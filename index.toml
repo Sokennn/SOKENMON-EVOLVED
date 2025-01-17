@@ -366,6 +366,11 @@ hash = "c42032aa633f24cadea95e45c768e92f261aa7f61bb0086203bc3f63115d6b63"
 metafile = true
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "20ddddab57ea31f9b64988075e7abaaa8e71bf4a7d5bb11616bc5e9dc6cb583b"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "b596c60d06c7645dce40b16e49eb8ea18c92d09a656cdfce6000e0ff2c8eeae7"
 metafile = true
