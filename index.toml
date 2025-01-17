@@ -6,11 +6,6 @@ hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
 metafile = true
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "ee2250ecda4a4a9ff7c635bd6cbcfc50fbd1f89b39f0a383e376d11abd6ed84e"
-metafile = true
-
-[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "60cd797dfe0cc7a6be4762120a05eed6e7068111b267e4da5993ef2229ce74dc"
 metafile = true
@@ -18,11 +13,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
-metafile = true
-
-[[files]]
-file = "mods/backpacked.pw.toml"
-hash = "37f558826ecd7cc68ca88633fc3d0a3b109bcbe4792a85ad5d100068a8cfd37b"
 metafile = true
 
 [[files]]
@@ -51,6 +41,11 @@ hash = "9ed0ebdd06c52585b460498934aad77d25fb97c0b144c2f0ab63cef262d31318"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "d23556a37ff83abb1f1bff30fe68991fe93a4e1d301b0c4426747ce417c4a4a6"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
@@ -67,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
 
 [[files]]
@@ -167,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
+hash = "93b5b476d2eda50bdfb153355d396bbf1ef666b4daee6345c18cb8f59c7a8f34"
 metafile = true
 
 [[files]]
@@ -188,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
-metafile = true
-
-[[files]]
-file = "mods/framework.pw.toml"
-hash = "b6a530549ee1aa5137ae26f8963dbb74472d79ef68bed5a6fa086094fd401a3c"
 metafile = true
 
 [[files]]
@@ -268,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "2413fcb171198ce6ff6f2dbc2bc77fde132865558fce5873a2ba2a1d397d52a0"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "858b2961beca189c561577cc6d0a21a82fe52db6d01f4cb0bde557b7a8dba047"
 metafile = true
 
 [[files]]
@@ -363,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/tmcraft.pw.toml"
 hash = "c42032aa633f24cadea95e45c768e92f261aa7f61bb0086203bc3f63115d6b63"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "6637e46eb3c157b405c3a48eea080338af959dae06a5b185433f5eb56e15b693"
 metafile = true
 
 [[files]]
