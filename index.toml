@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "bdd7d1d38603316ffb37e1dc4cb2cb7a68e3646fa6e66efcdc3b76432047e18d"
+hash = "c0fd4aea6da31ebee878dc2355376f9c58548e299eac47a07d7e25e4c7b2d327"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "c14c5452e5c7cfe532abf20e14c0ba5cc49810ff3c355e8235f83ee0e398b40e"
+hash = "4d0b8d91d7067c1c7ce021e0f8552a1bd372eb5e0a4652180edef7365c05bcab"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "93c5ff35cc7997f0976ae5a4f7a1a4e333dfd34356a856f9b9d2886b5283fb60"
+hash = "bc213d7a99082681c3b76ec0a08d2c7b697eff9327c314497b52e64bc7d9d78d"
 metafile = true
 
 [[files]]
