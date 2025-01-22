@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "230ba14d741377ed76d9fa160b81c46ee49b2da240cd9ab1516f67a0b04f2cc7"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "e7b778665c71ca078a44e8a8f655479c8b5220769105acdac0253b92e4ed0a63"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "e71bb990083ef0ff16c2b30dc2ce21cabc74735a22bc46231181b65d2a30cf70"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "3d940589bc72204939c244b6f2eeb7da8ccce60aeaf0610dc6f1a760aa0020a9"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
 metafile = true
@@ -218,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "17f2b0bb963e90e7e59f9356c81fe4a5857fcbad812cbab6b0eb39400ba428f1"
 metafile = true
 
 [[files]]
