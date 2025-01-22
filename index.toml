@@ -360,11 +360,6 @@ hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
 metafile = true
 
 [[files]]
-file = "mods/stackable127.pw.toml"
-hash = "51fc2598765c626e0842b9237082459aba4892a892faf2166158781ff61caeee"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "af749ea9e281c81651b55d47d83374296701894267fa32be29c3b98e975c7237"
 metafile = true
