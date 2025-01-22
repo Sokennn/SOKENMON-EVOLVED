@@ -70,11 +70,6 @@ hash = "82302805c9d6e897108da0e5abafd367eac05b517d9e892a2355cd0d91946b53"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components-api.pw.toml"
-hash = "d23556a37ff83abb1f1bff30fe68991fe93a4e1d301b0c4426747ce417c4a4a6"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
@@ -101,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "4d0b8d91d7067c1c7ce021e0f8552a1bd372eb5e0a4652180edef7365c05bcab"
+hash = "0b07c13066d28c287c6dd63f743440289ff530616dbeffc101871435d120a976"
 metafile = true
 
 [[files]]
@@ -191,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "93b5b476d2eda50bdfb153355d396bbf1ef666b4daee6345c18cb8f59c7a8f34"
+hash = "56713c2beabc42e4c7be6dd7fa8dbcd2380293b3b87836d7e16bca174f46885f"
 metafile = true
 
 [[files]]
@@ -271,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ffd58769b5397831ebcb00ed0569e0c88052c0c04c4b8c202a50b1f49258b174"
+hash = "c815d91a065f62bef61ad2d3c01d1665f3a2fed5354f7b9f433830bafaafd9eb"
 metafile = true
 
 [[files]]
@@ -336,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "100173291b3f417637d24a669d130c2c9f0382c01ec4566943a9c965cb25bbbe"
+hash = "89e69d176e2f108ae2697d5c58c61b869e2fa34be9aee6e1b48c5ebd439bcd60"
 metafile = true
 
 [[files]]
@@ -390,11 +385,6 @@ hash = "b038a7036582bc9f9a28e3e68525b37c36e27959a4eab070d3b6d99187f2ca03"
 metafile = true
 
 [[files]]
-file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "d49b3fbee60c070add5a86ce85b702608bf5923413fbb07f8e1bd7b07cf31dcb"
-metafile = true
-
-[[files]]
 file = "mods/treechop.pw.toml"
 hash = "20ddddab57ea31f9b64988075e7abaaa8e71bf4a7d5bb11616bc5e9dc6cb583b"
 metafile = true
@@ -416,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "238e74ca3028bda29e85fbcbc2c0f0325096b8e16cee5f933e02f6080c2b73b7"
+hash = "60ba171051a6d49059d0049417f4413886b30e3939669c3351522aa01b17284a"
 metafile = true
 
 [[files]]
