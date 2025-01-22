@@ -290,8 +290,18 @@ hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
 
 [[files]]
+file = "mods/nerb.pw.toml"
+hash = "99addd4953f9187de1e45174f5c10ab42748f743ccaebf74f5405bde5fb441e6"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e19a1b0c45de95f0ada6cc360dc74a0512e781f5ba0e4e610403e74cc97e6839"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "32ff59758677de9b6b6d6bdd80624b81aa208dfb6f7a7bbd0b3ba951a386c52a"
 metafile = true
 
 [[files]]
@@ -327,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/rctapi.pw.toml"
 hash = "100173291b3f417637d24a669d130c2c9f0382c01ec4566943a9c965cb25bbbe"
-metafile = true
-
-[[files]]
-file = "mods/recipes.pw.toml"
-hash = "172a658be9fa46cb9a34044985a954711c4cdfa66c6c3396e74b3a979ec9ceac"
 metafile = true
 
 [[files]]
