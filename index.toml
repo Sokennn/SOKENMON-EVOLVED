@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/cobblemonintegrations-common.toml"
-hash = "fdaf06353381981b18dcc70693721fc554c10342c388b84e531fab683bc63da5"
-
-[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
