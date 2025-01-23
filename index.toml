@@ -95,6 +95,11 @@ hash = "376af1aadea38d1e961f5e8a3bd03ed5f78e97ac26ca8aed5fb7fcf9d7994bd2"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "e36c3783cbfb933332c1ce344d07203e2b4c9f6fdb86694d2991aa9ffc8ae2bb"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "0b07c13066d28c287c6dd63f743440289ff530616dbeffc101871435d120a976"
 metafile = true
@@ -381,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmcraft.pw.toml"
-hash = "b038a7036582bc9f9a28e3e68525b37c36e27959a4eab070d3b6d99187f2ca03"
+hash = "ea2bb3eb5a7708f30b2e9c82d3308667404b021540dc391d04dee3c7c484163a"
 metafile = true
 
 [[files]]
@@ -416,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "07d6a9e4a6ac35db08c83d9caf1f9882f7f8be4a0ff6c94732559dd200a40fa3"
+hash = "83d2b81250708266abe1d8e41d07d7b6e5a27a49062789491d2855d67cc94e12"
 metafile = true
 
 [[files]]
