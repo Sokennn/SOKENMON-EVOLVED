@@ -14,19 +14,19 @@ hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "230ba14d741377ed76d9fa160b81c46ee49b2da240cd9ab1516f67a0b04f2cc7"
+hash = "22611db72c2caf0bfe37cb5a8d51cca2d8e1c4a12d884ce4b753419734e77de7"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "e7b778665c71ca078a44e8a8f655479c8b5220769105acdac0253b92e4ed0a63"
+hash = "b11814659f75bb6b9962b1cf9e43344b1146266ee755201f24d42cf118013b81"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "e71bb990083ef0ff16c2b30dc2ce21cabc74735a22bc46231181b65d2a30cf70"
+hash = "0f9dd04725b74cd40ec6e75156bc4e939e0f87eaeb564fac87f91fbcda1cca1e"
 
 [[files]]
 file = "config/jade/usernamecache.json"
-hash = "3d940589bc72204939c244b6f2eeb7da8ccce60aeaf0610dc6f1a760aa0020a9"
+hash = "d28ca5d7ed7bed57b6645dfe44b02468fe05cc1728be50435fd5d0570196fa28"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

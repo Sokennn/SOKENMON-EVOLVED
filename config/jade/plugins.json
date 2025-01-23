@@ -64,6 +64,12 @@
     "entity": true,
     "entity_variant": true
   },
+  "cobblemonintegrations": {
+    "healer": false,
+    "fossil_analyzer": false,
+    "pokemon_entity": true,
+    "berry_bush": false
+  },
   "supplementaries": {
     "hat_stand": false
   },

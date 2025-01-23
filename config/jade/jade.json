@@ -9,7 +9,7 @@
     "enableAccessibilityPlugin": false,
     "fluidMode": "NONE",
     "perspectiveMode": "CAMERA",
-    "extendedReach": 0.0,
+    "extendedReach": 10.0,
     "debug": false,
     "displayBosses": false,
     "displayMode": "TOGGLE",
@@ -21,7 +21,7 @@
     "displayEntities": true
   },
   "overlay": {
-    "alpha": 0.0,
+    "alpha": 1.0,
     "iconMode": "TOP",
     "animation": true,
     "disappearingDelay": 0.0,
