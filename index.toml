@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cobblemonintegrations-common.toml"
+hash = "3058f4fd933962de2fc3e3b33f9d3f775af6efe54b041c551008219d356068d0"
+
+[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
@@ -10,7 +14,7 @@ hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "22611db72c2caf0bfe37cb5a8d51cca2d8e1c4a12d884ce4b753419734e77de7"
+hash = "7e8fe1d2cf517c48b160a0c361cee82a8b73a01ea05115eb5a85b114b3da4628"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -22,7 +26,7 @@ hash = "0f9dd04725b74cd40ec6e75156bc4e939e0f87eaeb564fac87f91fbcda1cca1e"
 
 [[files]]
 file = "config/jade/usernamecache.json"
-hash = "d28ca5d7ed7bed57b6645dfe44b02468fe05cc1728be50435fd5d0570196fa28"
+hash = "0b8d3ec24a41bb81f5fc32134114e12e671a8212753171a0ff72444097f877a5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
