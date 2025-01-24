@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
-hash = "376af1aadea38d1e961f5e8a3bd03ed5f78e97ac26ca8aed5fb7fcf9d7994bd2"
+hash = "3475ecdb4cf940b52df03a2e08ff6eec45ffa6d4b0d916b3c488a37b4bca4c7f"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmcraft.pw.toml"
-hash = "ea2bb3eb5a7708f30b2e9c82d3308667404b021540dc391d04dee3c7c484163a"
+hash = "5793554fe5bfb7b2af02c9439e702395ee94b8e626ada8d8dae912b2189db30e"
 metafile = true
 
 [[files]]
