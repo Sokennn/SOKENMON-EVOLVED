@@ -14,4 +14,3 @@ minecraft = "1.21.1"
 
 [options]
 acceptable-game-versions = ["1.21"]
-no-internal-hashes = "true"
